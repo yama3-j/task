@@ -1,7 +1,7 @@
 <?php
 
-$s = "hoge";
-$n = 3;
+$s = string;
+$n = num;
 $m = mb_strlen($s);
 $mx = $n - 1;
 $my = mb_substr($s, $mx, 1);
